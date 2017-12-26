@@ -1,2 +1,2 @@
 # JMorph
-An image morphing program written in java
+A simple image morphing program written in java
